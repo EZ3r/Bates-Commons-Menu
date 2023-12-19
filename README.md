@@ -13,13 +13,21 @@ https://www.google.com/chrome/dr/download
 
 
 How to install those libraries:
+
 Selenium
+
 In terminal, type “pip install selenium” and make sure it is the updated version
+
 WebDriver Manager
+
 In terminal, type “pip install webdriver-manager and make sure it is the updated version
+
 BeautifulSoup
+
 In terminal, type “pip install beautifulsoup4” and make sure it is the updated version
+
 PrettyTable
+
 In terminal, type “pip install prettytable” and make sure it is the updated version
 
 [time and datetime do not need to be installed manually]
