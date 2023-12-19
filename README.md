@@ -1,5 +1,4 @@
 # Bates-Commons-Menu
-This program will help you to automatically print today’s or tomorrow’s Bates Commons Menu in the terminal.
 Authors: Elvis Zhou and Henry Liu
 
 Goal and scope of the project:
