@@ -12,6 +12,7 @@ The program also required Google Chrome browser installed on your computer. You 
 https://www.google.com/chrome/dr/download
 
 
+
 How to install those libraries:
 
 Selenium
@@ -33,7 +34,9 @@ In terminal, type “pip install prettytable” and make sure it is the updated 
 [time and datetime do not need to be installed manually]
 
 
+
 How to execute the software:
+
 In the terminal, type “python dcs211_final.py” to run the software. The software will ask you to type “td” or “tmr” to tell if you want today’s menu or tomorrow’s menu. Then the software will open the website and print the menu as a table automatically. In the process, do not execute any other operations until it prints the result in the terminal window. The whole process will take about 20-30 sec. 
 
 
